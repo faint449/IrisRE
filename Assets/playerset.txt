@@ -1,0 +1,13 @@
+{
+  "PlayerSet": [
+    {
+      "MoveF": "RightArrow",
+      "MoveB": "LeftArrow",
+      "MoveU": "UpArrow",
+      "MoveD": "DownArrow",
+      "Jump": "Space",
+      "AtkKey": "Z",
+      "CheckKey": "E"
+    }
+  ]
+}

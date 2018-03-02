@@ -1,0 +1,130 @@
+﻿{
+  "LyricSheet": [
+    {
+      "ID": 9999,
+      "String": "目前正在測試接取單人對話任務#測試換第二行#測試換第三行並且完成接取",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9998,
+      "String": "測試進行對話任務#接取任務目標回話#測試換第三行目前任務正在進行中",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9997,
+      "String": "測試結束對話任務#結束任務目標回話#測試換第三行目前任務已經結束",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9996,
+      "String": "測試接取擊殺任務#測試第二航#測試換第三行目前任務完成接取",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1"
+    },
+    {
+      "ID": 9995,
+      "String": "普通對話",
+      "TalkWay": "0",
+      "LSprite": "null",
+      "RSprite": "null"
+    },
+    {
+      "ID": 9994,
+      "String": "普通對話2",
+      "TalkWay": "0",
+      "LSprite": "null",
+      "RSprite": "null"
+    },
+    {
+      "ID": 9993,
+      "String": "普通對話3",
+      "TalkWay": "0",
+      "LSprite": "null",
+      "RSprite": "null"
+    },
+    {
+      "ID": 9992,
+      "String": "對話任務NPC1#測試第二行#完成對話任務NPC1",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9991,
+      "String": "對話任務NPC2#測試第二行#完成對話任務NPC2",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9990,
+      "String": "對話任務NPC3#測試第二行#完成對話任務NPC3",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9989,
+      "String": "測試多重任務",
+      "TalkWay": "1",
+      "LSprite": "null",
+      "RSprite": "alice/stand/1"
+    },
+    {
+      "ID": 9988,
+      "String": "測試多重任務2",
+      "TalkWay": "1",
+      "LSprite": "null",
+      "RSprite": "alice/stand/1"
+    },
+    {
+      "ID": 9987,
+      "String": "測試多重任務3",
+      "TalkWay": "1",
+      "LSprite": "null",
+      "RSprite": "alice/stand/1"
+    },
+    {
+      "ID": 9986,
+      "String": "目前正在測試接取多人對話任務#測試換第二行#測試換第三行並且完成接取",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9985,
+      "String": "測試進行多人對話任務#接取任務目標回話#測試換第三行目前任務正在進行中",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9984,
+      "String": "測試結束多人對話任務#結束任務目標回話#測試換第三行目前任務已經結束",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9983,
+      "String": "測試接取擊殺任務#接取任務目標回話#測試換第三行目前任務正在進行中",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    },
+    {
+      "ID": 9982,
+      "String": "測試結束擊殺任務#結束任務目標回話#測試換第三行目前任務已經結束",
+      "TalkWay": "1#0#1",
+      "LSprite": "remilia/stand/1#remilia/stand/1#remilia/stand/1",
+      "RSprite": "alice/stand/1#alice/stand/1#alice/stand/1"
+    }
+  ]
+}
