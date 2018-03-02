@@ -240,7 +240,6 @@ public class EnemyTest01Onhit : OnHitInterFace
 	public void EndHurt()
 	{
 		anim.SetBool("Hurt", false);
-
 		if (character.Hp < 0) anim.SetBool("Death",true);
 	}
 }
