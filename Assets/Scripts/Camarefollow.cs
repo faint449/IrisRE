@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CamareControl : MonoBehaviour
+public class Camarefollow : MonoBehaviour
 {
 	public Transform target;//跟随的目标物体
 	public float Xmargin = 0f; //設置角色與攝影機的X距離
